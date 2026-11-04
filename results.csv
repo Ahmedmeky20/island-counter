@@ -1,0 +1,5 @@
+case,rows,columns,pattern,expected_islands,timing_note
+lecture_example,4,5,mixed,3,Run locally if recording actual timing
+all_water_10x10,10,10,all zeros,0,Run locally if recording actual timing
+all_land_10x10,10,10,all ones,1,Run locally if recording actual timing
+diagonal_10x10,10,10,ones only on main diagonal,10,Run locally if recording actual timing
